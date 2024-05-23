@@ -1,3 +1,3 @@
 # docker-team
 
-Shared project between out organization 
+Shared project between our organization 
